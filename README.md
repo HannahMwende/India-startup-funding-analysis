@@ -35,11 +35,11 @@ the available data.
    there a correlation between the funding amount and the number of investors
    involved in funding rounds?
 
-**We
+##We
 have also developed three hypotheses for testing:**
 
 ·
-**Hypothesis
+#### Hypothesis
 1:**
 
 ***Null:**** The
@@ -88,7 +88,7 @@ Regarding Hypothesis 3, we will examine
 the distribution of start-ups across cities and deduce which cities harbour
 most highly-funded start-ups.
 
-**Conclusion**
+## Conclusion
 
 By rigorously examining
 the data and conducting these analyses, we will gain valuable insights into the
