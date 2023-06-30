@@ -35,12 +35,11 @@ the available data.
    there a correlation between the funding amount and the number of investors
    involved in funding rounds?
 
-##We
+## We
 have also developed three hypotheses for testing:**
 
 ·
-#### Hypothesis
-1:**
+## Hypothesis 1:
 
 ***Null:**** The
 funding received by start-ups in India has **not** demonstrated consistent
