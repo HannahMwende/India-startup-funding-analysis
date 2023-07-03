@@ -1,10 +1,16 @@
 # India-startup-funding-analysis
 
 
+<<<<<<< HEAD
 **Analysis of Funding Received by Start-ups in India from 2018 to 2021**
 
 **Project
 Description**
+=======
+# Analysis of Funding Received by Start-ups in India from 2018 to 2021
+
+## Project Description
+>>>>>>> ac4ba4cb3ec10ac74e10c63e688c02e71159a416
 
 This data analysis
 project focuses on the funding received by start-ups in India from 2018 to
@@ -14,25 +20,37 @@ on funding amounts, start-up details, and investor information, we aim to uneart
 prevailing patterns and gain insights pertaining to the opportunities in the
 start-up ecosystem of India in order to inform decision-making.
 
+<<<<<<< HEAD
 **The
 type of the problem**
+=======
+## The type of the problem
+>>>>>>> ac4ba4cb3ec10ac74e10c63e688c02e71159a416
 
 This project is of the exploratory data analytics and
 visualization type as it is our aim to deduce hidden insights and patterns from
 the available data.
 
+<<<<<<< HEAD
 **To
 guide our analysis, we have formulated 5 SMART questions:**
+=======
+## To guide our analysis, we have formulated 5 SMART questions:
+>>>>>>> ac4ba4cb3ec10ac74e10c63e688c02e71159a416
 
 1. What
    is the overall trend in funding received by start-ups in India from 2018 to
    2021?
 2. Which
    industries or sectors have received the highest funding during this period?
+<<<<<<< HEAD
 3. 
 
 What is the distribution of start-ups
 across the cities in India?
+=======
+3.  What is the distribution of start-ups across the cities in India?
+>>>>>>> ac4ba4cb3ec10ac74e10c63e688c02e71159a416
 
 4. What
    is the average funding amount received by start-ups in India during this
@@ -41,12 +59,20 @@ across the cities in India?
    there a correlation between the funding amount and the number of investors
    involved in funding rounds?
 
+<<<<<<< HEAD
 **We
 have also developed three hypotheses for testing:**
 
 ·
 **Hypothesis
 1:**
+=======
+## We
+have also developed three hypotheses for testing:**
+
+·
+## Hypothesis 1:
+>>>>>>> ac4ba4cb3ec10ac74e10c63e688c02e71159a416
 
 ***Null:**** The
 funding received by start-ups in India has **not** demonstrated consistent
@@ -94,7 +120,11 @@ Regarding Hypothesis 3, we will examine
 the distribution of start-ups across cities and deduce which cities harbour
 most highly-funded start-ups.
 
+<<<<<<< HEAD
 **Conclusion**
+=======
+## Conclusion
+>>>>>>> ac4ba4cb3ec10ac74e10c63e688c02e71159a416
 
 By rigorously examining
 the data and conducting these analyses, we will gain valuable insights into the
