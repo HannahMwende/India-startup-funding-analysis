@@ -26,10 +26,15 @@ Hypothesis 3: <br>
 ```Null```: Situating a startup in a particular city does not influence funding.<br>
 ```Alternate```: Situating a startup in a particular city significantly affects funding.
 
+### Hypothesis 4: <br>
+```Null```: There are no significant disparities in funding received among different stages of the Indian startups. <br>
+```Alternate```: During different stages the startups received different funding amounts.
+
 ## To test these hypotheses, we will conduct the following analyses: 
-* For Hypothesis 1, we will analyze the year-by-year funding amounts and calculate the average growth rate of funding.
-* To investigate Hypothesis 2, we will categorize start-ups based on industry and compare the funding amounts received by each sector.
-* Regarding Hypothesis 3, we will examine the distribution of start-ups across cities and deduce which cities harbour most highly-funded start-ups.
+* For Hypothesis 1, analyze the year-by-year funding amounts and calculate the average growth rate of funding.
+* To investigate Hypothesis 2, categorize start-ups based on industry and compare the funding amounts received by each sector.
+* Regarding Hypothesis 3, examine the distribution of start-ups across cities and deduce which cities harbour most highly-funded start-ups.
+* Regarding hypothesis 4, categorize start-ups based on stages and compare the funding amounts received by each stage.
 
 ## Conclusion
 By rigorously examining the data and conducting these analyses, we will gain valuable insights into the start-up ecosystem in India. These insights will enable us to formulate informed recommendations and determine the optimal strategy for our team's venture.
