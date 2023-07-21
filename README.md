@@ -1,4 +1,4 @@
-# Analysis of Funding Received by Start-ups in India(2018 - 2021)
+#The Project analyses Funding Received by Start-ups in India from years 2018 - 2021.
 
 ## Project Description
 This data analysis project focuses on the funding received by start-ups in India from 2018 to 2021. The objective is to gain insights into the Indian start-up ecosystem and propose the best course of action for our team's venture. By analyzing the data on funding amounts, start-up details, and investor information, we aim to unearth prevailing patterns and gain insights about the opportunities in India's start-up ecosystem to inform decision-making.
@@ -13,7 +13,7 @@ This project is of the exploratory data analytics and visualization type as it i
 4. What is the average funding amount received by start-ups in India during this period?
 5. Is there a correlation between the funding amount and the number of investors involved in funding rounds?
 
-## We have also developed three hypotheses for testing:
+## The following hypothesis were formulated for testing:
 Hypothesis 1: <br>
 ```Null```: The funding received by start-ups in India has not demonstrated consistent upward trajectory over the years.<br>
 ```Alternate```: The funding received by start-ups in India has demonstrated a consistent upward trajectory over the years.
