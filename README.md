@@ -4,7 +4,7 @@ The Project analyses Funding Received by Start-ups in India from years 2018 - 20
 ## Summary
 | Code          |     Name                       | Published Article|
 | ------------- | -------------                  | -------------    |
-| LP1           | India Startup Funding Analysis |                  |
+| LP1           | India Startup Funding Analysis |  [Article](https://azubiafrica-my.sharepoint.com/:w:/g/personal/cynthia_mutisya_azubiafrica_org/EayyPwLaw81ItoUyxm6XieMBgxTSi1qso3OQJy2OZ9fqlQ?e=adkUXN)               |
 
 
 ## Project Description
