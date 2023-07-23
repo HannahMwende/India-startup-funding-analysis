@@ -51,9 +51,11 @@ Hypothesis 3: <br>
 * Regarding hypothesis 4, categorize start-ups based on stages and compare the funding amounts received by each stage.
 
 ## Conclusion
-By rigorously examining and exploring the data and conducting these analyses, it was discovered that funding dropped from 2018 to 2019 by over 17 billion dollars before rising steadily to 2021. We therefore fail to reject the null hypothesis which states that the funding received by start-ups in India has not demonstrated a consistent upward trajectory over the years. 
+* Funding dropped from 2018 to 2019 by over 17 billion dollars before rising steadily through to 2021. We therefore fail to reject the null hypothesis which states that the funding received by start-ups in India has not demonstrated consistent upward trajectory over the years. 
+* There are significant differences on the funding amounts received in through out the years. This can be proven by the post hoc Dunn test that illustrates the significant differences among the following pair of years ('2018', '2020'), ('2019', '2020'), ('2020', '2018'), ('2020', '2019'), ('2020', '2021'), ('2021', '2020').
+* There are significant disparities in funding received during various sectors. Comparing the other sectors to the technology sectors, there was no significant evidence of a difference in funding amounts between the Tech sector and other sectors.
+* There are significant disparities in funding received during various stages. The debt financing stage received the highest funding over the period with 150.7 billion. Venture capital with unknown series, however, came second with 14.9 billion and Series C with 13.4 billion
 
-We also found out that there are significant disparities in funding received during various stages. The debt financing stage received the highest funding over the period with 150.7 billion. Venture capital with unknown series, however, came second with 14.9 billion and Series C with 13.4 billion. 
 
 ## Recommendations
 * Situation analysis for a venture into the Indian ecosystem regarding funding of start-ups is particularly important as it is highly likely to receive funding as a start-up when headquartered at Mumbai, Bangalore, New Delhi and Gurugram respectively. 
